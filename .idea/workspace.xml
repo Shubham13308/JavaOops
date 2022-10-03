@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c6009c8-3cd8-4279-9e75-d02132e10349" name="Changes" comment="Abstraction">
-      <change afterPath="$PROJECT_DIR$/src/Multiple_Inheritance.java" afterDir="false" />
+    <list default="true" id="8c6009c8-3cd8-4279-9e75-d02132e10349" name="Changes" comment="Multiple_Inheritance using interface">
+      <change afterPath="$PROJECT_DIR$/src/Static.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Multiple_Inheritance">
+  <component name="RunManager" selected="Application.Static">
     <configuration name="Abstraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Abstraction" />
       <module name="JavaOops" />
@@ -56,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Single_Level_Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Single_Level_Inheritance" />
+    <configuration name="Static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Static" />
       <module name="JavaOops" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Static" />
         <item itemvalue="Application.Multiple_Inheritance" />
         <item itemvalue="Application.Abstraction" />
         <item itemvalue="Application.bank" />
         <item itemvalue="Application.Multilevel_Inheritance" />
-        <item itemvalue="Application.Single_Level_Inheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664822348588</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Multiple_Inheritance using interface">
+      <created>1664823234402</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664823234403</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +196,7 @@
     <MESSAGE value="Single_Level_Inheritance.java" />
     <MESSAGE value="Access Modifiers" />
     <MESSAGE value="Abstraction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstraction" />
+    <MESSAGE value="Multiple_Inheritance using interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Multiple_Inheritance using interface" />
   </component>
 </project>
